@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Przepis na Potrawę Sema</title>
+</head>
+<body>
+    <a href="../index.html">Powrót do strony głównej</a>
+    
+    <h1>Potrawa Sema</h1>
+    
+    <img src="https://via.placeholder.com/300" alt="Zdjęcie Potrawy Sema">
+
+    <h3>Opis</h3>
+    <p>To jest legendarna potrawa, która smakuje najlepiej po długim dniu kodowania.</p>
+    <p>Charakteryzuje się unikalnym aromatem i prostotą wykonania.</p>
+
+    <h3>Składniki</h3>
+    <ul>
+        <li>500g tajemniczego składnika</li>
+        <li>Szczypta cierpliwości</li>
+        <li>2 szklanki determinacji</li>
+    </ul>
+
+    <h3>Kroki przygotowania</h3>
+    <ol>
+        <li>Włącz terminal i stwórz nowy folder.</li>
+        <li>Wymieszaj składniki w dużym naczyniu.</li>
+        <li>Gotuj na wolnym ogniu przez 30 minut.</li>
+    </ol>
+</body>
+</html>
